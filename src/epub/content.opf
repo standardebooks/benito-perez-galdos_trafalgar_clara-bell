@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/benito-perez-galdos/trafalgar/clara-bell</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-03-06T19:51:25Z</dc:date>
+		<meta property="dcterms:modified">2025-03-06T19:51:25Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,15 +40,18 @@
 		<meta id="collection-1" property="belongs-to-collection">National Episodes of Spain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man finds himself aboard a Spanish battleship destined for the Battle of Trafalgar.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Gabrield de Araceli is a young orphan living in Cádiz, Spain. His caretakers, a retired naval officer and his wife, keep a close eye on him until one of their old navy friends comes to visit to tell of a grand upcoming battle between England on one side, and France and Spain allied on the other.&lt;/p&gt;
+			&lt;p&gt;Gabriel’s master is stirred by memories of daring and adventure, and, when his disapproving wife is otherwise occupied, steals away with Gabriel to board the &lt;i&gt;Santísima Trinidad&lt;/i&gt;—then the largest battleship in the world—and sail off to cover themselves in glory.&lt;/p&gt;
+			&lt;p&gt;The action they encounter later becomes known worldwide as the Battle of Trafalgar, one of England’s greatest naval victories and one of Spain’s most tragic defeats, the final laurel on the crown of Horatio Nelson’s legend.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/benito-perez-galdos"&gt;Galdós&lt;/a&gt; composed this novel, the first in what would become his lengthy &lt;a href="https://standardebooks.org/collections/national-episodes-of-spain"&gt;Episodios Nacionales&lt;/a&gt;, with realism and verisimilitude in mind. He interviewed a survivor of the battle and conducted significant research to ensure his story was as historically accurate as its fictional frame would allow. The novel was hugely popular and went on to become a cornerstone of the historical realism genre.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47980</dc:source>
 		<dc:source>https://archive.org/details/trafalgartale00pr</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">56199</meta>
+		<meta property="se:reading-ease.flesch">61.29</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Trafalgar_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/benito-perez-galdos_trafalgar_clara-bell</meta>
 		<dc:creator id="author">Benito Pérez Galdós</dc:creator>
