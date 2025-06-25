@@ -58,7 +58,7 @@
 		<meta property="file-as" refines="#author">Galdós, Benito Pérez</meta>
 		<meta property="se:name.person.full-name" refines="#author">Benito María de los Dolores Pérez Galdós</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79058843</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79058843</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="translator">Clara Bell</dc:contributor>
@@ -71,7 +71,7 @@
 		<dc:contributor id="artist">Clarkson Frederick Stanfield</dc:contributor>
 		<meta property="file-as" refines="#artist">Stanfield, Clarkson Frederick</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Clarkson_Frederick_Stanfield</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n50023998</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50023998</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Josep Cols Canals</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Canals, Josep Cols</meta>
