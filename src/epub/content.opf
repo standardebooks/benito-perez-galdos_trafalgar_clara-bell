@@ -50,7 +50,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47980</dc:source>
 		<dc:source>https://archive.org/details/trafalgartale00pr</dc:source>
-		<meta property="se:word-count">56199</meta>
+		<meta property="se:word-count">55998</meta>
 		<meta property="se:reading-ease.flesch">61.29</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Trafalgar_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/benito-perez-galdos_trafalgar_clara-bell</meta>
