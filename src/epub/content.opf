@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/benito-perez-galdos/trafalgar/clara-bell</dc:identifier>
 		<dc:date>2025-03-06T19:51:25Z</dc:date>
@@ -41,13 +41,13 @@
 		<meta id="collection-1" property="belongs-to-collection">National Episodes of Spain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A young man finds himself aboard a Spanish battleship destined for the Battle of Trafalgar.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man finds himself aboard a Spanish battleship destined for the Battle of Trafalgar.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Gabriel de Araceli is a young orphan living in Cádiz, Spain. His caretakers, a retired naval officer and his wife, keep a close eye on him until one of their old navy friends comes to visit to tell of a grand upcoming battle between England on one side, and France and Spain allied on the other.&lt;/p&gt;
 			&lt;p&gt;Gabriel’s master is stirred by memories of daring and adventure, and, when his disapproving wife is otherwise occupied, steals away with Gabriel to board the &lt;i&gt;Santísima Trinidad&lt;/i&gt;—then the largest battleship in the world—and sail off to cover themselves in glory.&lt;/p&gt;
 			&lt;p&gt;The action they encounter later becomes known worldwide as the Battle of Trafalgar, one of England’s greatest naval victories and one of Spain’s most tragic defeats, the final laurel on the crown of Horatio Nelson’s legend.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/benito-perez-galdos"&gt;Galdós&lt;/a&gt; composed this novel, the first in what would become his lengthy &lt;a href="https://standardebooks.org/collections/national-episodes-of-spain"&gt;Episodios Nacionales&lt;/a&gt;, with realism and verisimilitude in mind. He interviewed a survivor of the battle and conducted significant research to ensure his story was as historically accurate as its fictional frame would allow. The novel was hugely popular and went on to become a cornerstone of the historical realism genre.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47980</dc:source>
 		<dc:source>https://archive.org/details/trafalgartale00pr</dc:source>
