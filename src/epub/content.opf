@@ -41,7 +41,7 @@
 		<meta id="collection-1" property="belongs-to-collection">National Episodes of Spain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A young man finds himself aboard a Spanish battleship destined for the Battle of Trafalgar.</dc:abstract>
+		<meta property="schema:abstract">A young man finds himself aboard a Spanish battleship destined for the Battle of Trafalgar.</meta>
 		<dc:description>
 			&lt;p&gt;Gabriel de Araceli is a young orphan living in Cádiz, Spain. His caretakers, a retired naval officer and his wife, keep a close eye on him until one of their old navy friends comes to visit to tell of a grand upcoming battle between England on one side, and France and Spain allied on the other.&lt;/p&gt;
 			&lt;p&gt;Gabriel’s master is stirred by memories of daring and adventure, and, when his disapproving wife is otherwise occupied, steals away with Gabriel to board the &lt;i&gt;Santísima Trinidad&lt;/i&gt;—then the largest battleship in the world—and sail off to cover themselves in glory.&lt;/p&gt;
